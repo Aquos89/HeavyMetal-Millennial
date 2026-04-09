@@ -151,4 +151,4 @@ Open and run `Metal_(1).ipynb` sequentially. The notebook is organized into the 
 
 ## 📄 License
 
-This project was developed for academic purposes at [University Name]. Not intended for commercial use.
+This project was developed for academic purposes at Regensburg University. Not intended for commercial use.
