@@ -20,8 +20,8 @@ The goal is to evaluate how well computational methods replicate or diverge from
 ## 🗂️ Project Structure
 
 ```
-├── Metal_(1).ipynb         # Main notebook (full pipeline)
-├── metal_manual.csv        # Chabot (2012) manual classification dataset
+├── Metal.ipynb                              # Main notebook (full pipeline)
+├── Chabot_2012_Millennial&HeavyMetal        # Chabot (2012) manual classification dataset
 └── README.md
 ```
 
